@@ -1,4 +1,4 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ritesh] 🦥!!
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ritesh] !!
 
 <a href="https://www.linkedin.com/in/vrukshali-torawane">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -15,7 +15,8 @@
 <br>
 
 ## 🎓 About me
-• I’m currently pursuing my Bachelors in Computer Engineering. <br />
+• I’m currently pursuing my Bachelors in Computer Engineering <br />
+• DevOps and Cloud Enthusiast.
 
 
 ##  ✔ Technologies 
