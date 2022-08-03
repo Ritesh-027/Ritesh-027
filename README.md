@@ -1,6 +1,6 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ritesh] 🦥!!
 
-<a href="https://www.linkedin.com/in/vrukshali-torawane">
+<a href="https://www.linkedin.com/in/ritesh-gaikwad-360ba6153">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:riteshgaikwad309@gmail.com">
